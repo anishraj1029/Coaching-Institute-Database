@@ -1,2 +1,2 @@
 # Coaching-Institute-Database-
-DBMS project
+DBMS Project
